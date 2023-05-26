@@ -1,0 +1,2 @@
+addi $s0,$zero,5;
+ori $s2,$s0,2;

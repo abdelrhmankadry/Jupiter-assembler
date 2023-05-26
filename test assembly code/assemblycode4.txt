@@ -1,0 +1,9 @@
+addi $t0, $zero, 0;
+addi $t2, $zero,24;
+addi $t3, $zero,4;
+loop:  sw $t0, 0 ($t0);
+add $t0,$t0, $t3;
+ slt $t1,$t0,$t2;
+beq $t1 ,$zero, exit;
+ j loop;
+exit: addi $s0, $zero, $zero;
