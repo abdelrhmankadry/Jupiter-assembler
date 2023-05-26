@@ -21,7 +21,7 @@ Clone the repository:
 bash
 Copy code
 ```bash 
-git clone https://github.com/your-username/Jubiter-assembler.git
+git clone https://github.com/abdelrhmankadry/Jubiter-assembler.git
 ```
 Open the project in your preferred Java IDE.
 
