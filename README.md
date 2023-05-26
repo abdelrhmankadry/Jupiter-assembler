@@ -33,13 +33,15 @@ Run the Main class located in the src directory to launch the simulator applicat
 ## Usage
 The Jubiter assembler provides a graphical user interface (GUI) for assembling and simulating MIPS32 assembly code. The GUI allows you to perform the following actions:
 
-Select the source file: Use the "Choose File" button to browse and select the MIPS32 assembly code file (*.txt) you want to assemble and simulate.
+Select the source file: Use the "Source File" button to browse and select the MIPS32 assembly code file (*.txt) you want to assemble and simulate.
 
 Assemble and simulate: Click the "Run" button to assemble and simulate the selected source file. The output will be displayed in the text area.
 
-View register file: Click the "Open Register File" button to open a new window displaying the contents of the MIPS32 register file.
+View register file: Click the "RegFile" button to open a new window displaying the contents of the MIPS32 register file.
 
-View memory: Click the "Open Memory" button to open a new window displaying the contents of the MIPS32 memory.
+View memory: Click the "Memory" button to open a new window displaying the contents of the MIPS32 memory.
+
+
 
 
 Please note that the simulator assumes a specific format for the MIPS32 assembly code. Refer to the MIPS32 Assembly Code Guidelines for details on the supported instructions and syntax.
