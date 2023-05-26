@@ -96,3 +96,5 @@ The simulation process for the MIPS simulator involves compiling a Verilog file,
 
 Note: The specifics of the simulation process may vary depending on the implementation  MIPS simulator.
 
+
+## Screenshots
