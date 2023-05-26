@@ -98,3 +98,11 @@ Note: The specifics of the simulation process may vary depending on the implemen
 
 
 ## Screenshots
+
+### Main screen
+![main screen](https://github.com/abdelrhmankadry/Jupiter-assembler/blob/main/screenshots/main%20screen.png?raw=true)
+### Example assembly code
+![input code](https://github.com/abdelrhmankadry/Jupiter-assembler/blob/main/screenshots/input.png?raw=true)
+### Output 
+![output zeros and ones](https://github.com/abdelrhmankadry/Jupiter-assembler/blob/main/screenshots/output.png?raw=true)
+
